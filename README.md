@@ -1,6 +1,6 @@
 # bq-sql-etl
 
-BigQuery SQL ETL Examples. In form of SQL and Airflow BigQuery Operator.
+BigQuery SQL ETL examples. In form of SQL and Airflow BigQuery Operator.
 
 ## Getting Started
 
@@ -10,4 +10,4 @@ For SQL, you could copy paste directly to BigQuery UI to test it out by editing 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
